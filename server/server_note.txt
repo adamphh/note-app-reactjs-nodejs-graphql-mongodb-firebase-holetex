@@ -1,0 +1,4 @@
+Reference: https://www.youtube.com/watch?v=aM_XIWjxcYA
+
+1. Init Server Project
+npm Init --yes
